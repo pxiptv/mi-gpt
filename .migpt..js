@@ -18,16 +18,16 @@ export default {
     profile: botProfile,
   },
   master: {
-    name: "陆小千",
+    name: "潘潘潘",
     profile: masterProfile,
   },
   speaker: {
     // 小米 ID
-    userId: "987654321", // 注意：不是手机号或邮箱，请在「个人信息」-「小米 ID」查看
+    userId: "4331361", // 注意：不是手机号或邮箱，请在「个人信息」-「小米 ID」查看
     // 账号密码
-    password: "123456",
+    password: "szpx1898",
     // 小爱音箱 DID 或在米家中设置的名称
-    did: "小爱音箱Pro",
+    did: "AI音箱",
     // 当消息以下面的关键词开头时，会调用 AI 来回复消息
     callAIKeywords: ["请", "你", "傻妞"],
     // 当消息以下面的关键词开头时，会进入 AI 唤醒状态
